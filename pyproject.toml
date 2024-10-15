@@ -3,7 +3,7 @@ name = "magnetics"
 version = "0.1.0"
 description = "Magnetics based equilibrium reconstruction"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Apiwat Wijaikhum",email = "Apiwat.Wijaikhum@egat.co.th"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
